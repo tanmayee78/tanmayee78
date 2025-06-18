@@ -4,12 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayee78&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayee78" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack & React**
-
-- 📫 How to reach me **tanmayee782@gmail.com**
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmayee-chakraborty-010b37292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TanmayeeonTrack) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmayee782@gmail.com) 
 
