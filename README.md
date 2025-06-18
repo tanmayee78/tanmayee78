@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmayee Chakraborty</h1>
-<h3 align="center">A 3rd-year B.Tech student at NIT Agartala, majoring in Electronics and Communication Engineering (ECE). I'm passionate about frontend development and currently diving deep into the MERN stack to build creative, impactful projects.</h3>
+<h3 align="center">A Final-year B.Tech student at NIT Agartala, majoring in Electronics and Communication Engineering (ECE). I'm passionate about frontend development and currently diving deep into the MERN stack to build creative, impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayee78&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayee78" /> </p>
 
